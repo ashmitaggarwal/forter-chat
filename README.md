@@ -11,4 +11,4 @@ The full challenge description can be found [here](https://docs.google.com/docum
 
 Good Luck!
 
-![Screenshot 2024-03-06 at 7.14.51 PM.png](..%2F..%2F..%2FScreenshot%202024-03-06%20at%207.14.51%E2%80%AFPM.png)
+![Screenshot 2024-03-06 at 7.14.51 PM.png](Screenshot%202024-03-06%20at%207.14.51%E2%80%AFPM.png)
